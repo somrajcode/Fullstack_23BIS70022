@@ -20,4 +20,4 @@ A project focusing on interactive web elements, including dynamic lists, input h
 - CSS Flexbox/Grid
 
 ---
-Developed by **Kumar Aditya**
+Developed by **Somraj Laskar**
